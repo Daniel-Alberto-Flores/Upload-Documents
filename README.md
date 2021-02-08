@@ -8,6 +8,6 @@
 </div>
 
 <p align="center">
-  <h2>---> Login</h2>   
+  <h2> ■ Login</h2>   
   <img src="https://raw.githubusercontent.com/Daniel-Alberto-Flores/Upload-Documents/main/Login.png" width="350" alt="accessibility text">
 </p>
