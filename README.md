@@ -8,6 +8,6 @@
 </div>
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
+  <p>---> Login</p>   
   <img src="https://raw.githubusercontent.com/Daniel-Alberto-Flores/Upload-Documents/main/Login.png" width="350" alt="accessibility text">
 </p>
