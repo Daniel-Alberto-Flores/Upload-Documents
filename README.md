@@ -14,5 +14,5 @@
 
 <p align="center">
   <h2> ■ Menu</h2>   
-  <img src="https://raw.githubusercontent.com/Daniel-Alberto-Flores/Upload-Documents/main/Menus.png" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/Daniel-Alberto-Flores/Upload-Documents/main/Menus.png" width="550" alt="accessibility text">
 </p>
